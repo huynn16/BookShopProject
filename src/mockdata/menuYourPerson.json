@@ -1,0 +1,8 @@
+[
+  { "id": 1, "iconLibrary": "Feather", "iconColor": "black", "icon": "person-circle-outline", "title": "Thiết lập tài khoản", "slug": "EditAdmin" },
+  { "id": 2, "iconLibrary": "Ionicons", "iconColor": "black", "icon": "ios-ribbon-outline", "title": "Đã xem", "slug": "HistoryBooks" },
+  { "id": 4, "iconLibrary": "Ionicons", "iconColor": "black", "icon": "ios-timer-outline", "title": "Lịch sử mua hàng", "slug": "HistoryOrder" },
+  { "id": 5, "iconLibrary": "Feather", "iconColor": "black", "icon": "star", "title": "Đánh giá", "slug": "EditAdmin" },
+  { "id": 6, "iconLibrary": "Feather", "iconColor": "black", "icon": "chatbubbles-outline", "title": "Liên hệ hỗ trợ", "slug": "EditAdmin" },
+  { "id": 7, "iconLibrary": "Feather", "iconColor": "black", "icon": "log-out", "title": "Logout", "slug": "ModalLogIn"}
+]

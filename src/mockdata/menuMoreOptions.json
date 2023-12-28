@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "icon": "heart-o",
+      "title": "Thích",
+      "lib": "FontAwesome"
+    },
+    {
+      "id": 2,
+      "icon": "share-alternative",
+      "title": "Chia sẻ",
+      "lib": "Entypo"
+    }
+  ]
+  
